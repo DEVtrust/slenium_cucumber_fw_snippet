@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="20.599">
+    <testcase classname="Feature for Login into Mercado" name="Validate Dashboard Page" time="20.406">
+        <system-out><![CDATA[Given Hit Mercado https://staging.mercadolabs.com/..........................passed
+When user enters cindyxu+buyer@mercadolabs.com username and STqV6YtK8uy74hG2.passed
+And Clicks on login button..................................................passed
+And user is navigated to Dashboard page then logout.........................passed
+Then Login again with cindyxu+supplier@mercadolabs.com username and STqV6YtK8uy74hG2 and logout from the same.passed
+]]></system-out>
+    </testcase>
+</testsuite>
